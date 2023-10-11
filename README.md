@@ -7,12 +7,11 @@
 #### На проверку направьте конфигурационный файл haproxy, скриншоты, где видно перенаправление запросов на разные серверы при обращении к HAProxy.
 
 
-Шаблон Zadanie 1:
-   ![Скрин1](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_template.png)
-
-А также итемы для шаблона Zadanie 1:
-   ![Скрин2](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_item1.png)
-   ![Скрин3](https://github.com/denniskostyuk/zabbix-2/blob/main/task-1_item2.png)
+![Скрин1](https://github.com/denniskostyuk/balans/blob/main/task_11.png)
+![Скрин2](https://github.com/denniskostyuk/balans/blob/main/task_12.png)
+![Скрин3](https://github.com/denniskostyuk/balans/blob/main/task_13.png)
+![Скрин4](https://github.com/denniskostyuk/balans/blob/main/task_14.png)
+![Скрин5](https://github.com/denniskostyuk/balans/blob/main/task_15.png)
    
 
 
